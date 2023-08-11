@@ -1,7 +1,7 @@
 # oop-proj-5
 
 ## Description
-This is a game with anime and items, up down left and left to control your position, and space to shut bullet.
+This is a game with enemy and items, up down left and left to control your position, and space to shut bullet.
 
 <img src="./oop5.gif"/>
 
